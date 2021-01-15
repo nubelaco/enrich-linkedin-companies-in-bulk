@@ -2,7 +2,12 @@
 
 A script commissioned (and with permission, open-sourced) by TVC Capital.
 
-This script takes in a batc
+This script takes in a CSV file of Linkedin companies, enriches it, and returns the following fields:
+* Linkedin URL
+* Website
+* Company name
+* Employee count (range)
+* Follower count
 
 ## Setup
 
