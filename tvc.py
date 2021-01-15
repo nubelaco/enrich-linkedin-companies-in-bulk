@@ -1,8 +1,6 @@
 import asyncio
-from asyncio.protocols import DatagramProtocol
 import csv
 import sys
-from pprint import pprint
 from typing import List
 
 import httpx
