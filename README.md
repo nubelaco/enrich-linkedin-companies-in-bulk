@@ -1,4 +1,4 @@
-# Bulk Enrich Linkdein Companies
+# Bulk Enrich Linkedin Companies
 
 A script commissioned (and with permission, open-sourced) by TVC Capital.
 
